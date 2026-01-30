@@ -118,3 +118,7 @@ CONCLUSION
 
 This project successfully demonstrates how Python can be used to automate the entire process of data analysis and report generation. By combining Pandas for data processing and ReportLab for PDF creation, the system converts raw CSV data into a structured, professional report with minimal human intervention. The project is efficient, scalable, and highly practical, making it suitable for both academic learning and real-world applications.
 
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/a113ebca-5372-4875-90b7-9b58d32fc60a)
+
