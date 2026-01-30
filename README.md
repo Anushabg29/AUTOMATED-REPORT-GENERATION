@@ -63,8 +63,6 @@ The absence of plots makes this project ideal for scenarios where formal documen
 LANGUAGES AND TECHNOLOGIES UISED
 
 Programming Language
-
-Python
 Python is used due to its simplicity, readability, and strong ecosystem for data processing and automation. It enables rapid development and easy maintenance of the code.
 
 Libraries and Tools
