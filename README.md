@@ -89,7 +89,7 @@ Platform-independent (runs on Windows, Linux, and macOS)
 
 Can be executed using Python IDLE, VS Code, or any Python-supported IDE
 
-Applications of the Project
+APPLICATIONS OF THE PROJECT
 
 This automated report generation system has a wide range of real-world applications:
 
